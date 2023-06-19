@@ -12,5 +12,8 @@
     "react"
   ],
   "author": "Manikandan M",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.2"
+  }
 }
